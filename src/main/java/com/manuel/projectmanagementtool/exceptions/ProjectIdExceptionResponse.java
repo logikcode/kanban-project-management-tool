@@ -1,2 +1,4 @@
-package com.manuel.projectmanagementtool.exceptions;public class ProjectIdExceptionResponse {
+package com.manuel.projectmanagementtool.exceptions;
+
+public class ProjectIdExceptionResponse {
 }
